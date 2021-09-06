@@ -1,0 +1,1 @@
+Este projeto se trata de um Bloco de Nota personalizado.
